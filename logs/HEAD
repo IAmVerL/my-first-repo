@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 bda1b4da11644ca07caa8a78589356d818b09e83 IamVer <verrelsu1@gmail.com> 1787815641 +0700	commit (initial): add hello.txt
-bda1b4da11644ca07caa8a78589356d818b09e83 bda1b4da11644ca07caa8a78589356d818b09e83 IamVer <verrelsu1@gmail.com> 1787815743 +0700	checkout: moving from master to new-feature
-bda1b4da11644ca07caa8a78589356d818b09e83 0000000000000000000000000000000000000000 IamVer <verrelsu1@gmail.com> 1787816172 +0700	Branch: renamed refs/heads/new-feature to refs/heads/main
-0000000000000000000000000000000000000000 bda1b4da11644ca07caa8a78589356d818b09e83 IamVer <verrelsu1@gmail.com> 1787816172 +0700	Branch: renamed refs/heads/new-feature to refs/heads/main
